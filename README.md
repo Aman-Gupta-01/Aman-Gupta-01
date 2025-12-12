@@ -75,27 +75,6 @@ Impact:
 - Improved UI load time (**35% faster**)
 - Developed reusable components + production workflows
 
----
-
-# 📈 GitHub Stats (Updated & Fully Working)
-
-<p align="center">
-  <img height="160px" 
-       src="https://github-readme-stats.vercel.app/api?username=Aman-Gupta-01&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img height="160px" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Gupta-01&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=Aman-Gupta-01&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/aman-gupta-949475314/" target="_blank">
