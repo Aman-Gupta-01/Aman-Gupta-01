@@ -20,7 +20,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,tailwind,js,vscode,git,github,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,tailwind,js,vscode,git,github,postman" />
 </p>
 
 ---
