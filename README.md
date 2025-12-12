@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON-web-tokens&logoColor=white&borderRadius=30" />
 </p>
 
----
 
 ## 🎨 Frontend
 <p align="center">
@@ -39,8 +38,6 @@
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&borderRadius=30" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&borderRadius=30" />
 </p>
-
----
 
 ## 🔧 Tools & Others
 <p align="center">
