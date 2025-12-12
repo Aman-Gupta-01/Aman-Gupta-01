@@ -55,11 +55,6 @@ Worked across:
 
 ## 📈 GitHub Overview
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aman-Gupta-01&show_icons=true&theme=react&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Gupta-01&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Aman-Gupta-01&theme=react&hide_border=true" />
 </p>
 
