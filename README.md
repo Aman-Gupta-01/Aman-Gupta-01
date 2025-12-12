@@ -14,30 +14,18 @@
 - 🔥 Built production dashboards used by **10,000+ users**
 - 🌱 Currently developing **Inkling** — a full-stack social platform  
 - ⚡ Love working with **Node.js, Express, MongoDB, React, Redux**
-- 📌 Focus areas: clean architecture, performance tuning, authentication
+- 📌 Focus areas: clean architecture, performance, authentication
 
 ---
 
-# 🧰 Tech Stack
-
-### 🔹 Core Stack
+## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,tailwind&perline=6" />
-</p>
-
-### 🔹 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript&perline=6" />
-</p>
-
-### 🔹 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,tailwind,js,vscode,git,github,postman&perline=6" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 ### 🔥 Inkling — Social Media Platform (MERN)
 A full stack app featuring:
@@ -51,21 +39,21 @@ A full stack app featuring:
 ---
 
 ### 📊 Surepass Enterprise Dashboards
-Contributed to:
-- Console Dashboard (Admin + Client)  
-- Superfin  
-- Surereach (Admin + Client)  
-- CKYC Dashboard  
-- Superflow  
+Worked across:
+- Console Dashboard (Admin + Client)
+- Superfin
+- Surereach (Admin + Client)
+- CKYC Dashboard
+- Superflow (Hosted)
 
 **Impact:**  
-✔ Optimized APIs (+15–18%)  
-✔ Improved UI load speed (+35%)  
-✔ Delivered production-grade reusable components  
+✔ Improved API performance (15–18%)  
+✔ Faster UI load time (35%)  
+✔ Production-grade components  
 
 ---
 
-# 📈 GitHub Overview
+## 📈 GitHub Overview
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aman-Gupta-01&show_icons=true&theme=react&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Gupta-01&layout=compact&theme=react&hide_border=true" />
@@ -77,21 +65,14 @@ Contributed to:
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect
 <p align="center">
-  <a href="mailto:guptaman2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A73E8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aman-gupta-949475314/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aman-Gupta-01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>📬 Prefer email for opportunities — I usually reply within 24 hours.</sub>
+<a href="mailto:guptaman2007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aman-gupta-949475314/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
